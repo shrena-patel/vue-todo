@@ -1,5 +1,9 @@
 # vue-todo
 
+Built with the help of Traversy Media's tutorial: https://www.youtube.com/watch?v=Wy9q22isx3U
+
+A simple todo list app to learn Vue.js.
+
 ## Project setup
 ```
 npm install
